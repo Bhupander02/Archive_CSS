@@ -1,0 +1,20 @@
+html{
+    background-color: #2c3588;
+}
+h1{
+    font-family: "Libre+Baskerville", serif;
+    background-color: black;
+    color: rebeccapurple;
+    text-align: center;
+    font-size: 40px;
+    /* text-transform:uppercase; */
+}
+
+img{
+    height: 400px;
+    width: 600px;
+    padding: 2px;
+    border: 20px solid rgb(203, 223, 230);
+    margin-top: 5%;
+    margin-left: 30%;
+}

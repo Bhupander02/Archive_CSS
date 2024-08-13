@@ -1,0 +1,48 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+/* ----------------------------- */
+p{
+  color: white;
+}
+
+
+.white-text{
+  background-color: red;
+  color: white;
+  padding: 10px;
+
+}
+
+#outer-box{
+  /* border nahi lag raha tha kyuki maine border ka syntax glt likha tha, solid likhna bhool gya tha */
+  border: 10px solid purple;
+  /* border-color: purple; */
+  border-width: 15px;
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
